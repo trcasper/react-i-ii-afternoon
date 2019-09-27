@@ -126,6 +126,7 @@ const data =[
     title: "Account Coordinator",
     favoriteMovies: ["Brother 2 (Brat 2)", "Nacho Libre", "Block-Heads"]
   },
+  
   {
     id: 12,
     name: { first: "Hadlee", last: "Piolli" },
